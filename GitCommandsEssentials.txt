@@ -1,0 +1,16 @@
+You tube help : https://www.youtube.com/watch?v=J_Clau1bYco#action=share
+
+git config --global user.name "tzafar40"
+
+git config --global user.email tahirzafar40@gmail.com
+
+git clone https://github.com/tzafar40/javascript.git
+
+git add .
+
+git status
+
+>git commit -m "git commands" filename
+
+>git push -u origin master
+
